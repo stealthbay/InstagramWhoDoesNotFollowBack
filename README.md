@@ -32,10 +32,9 @@ You'll require the following before you can use the script
   ```
 
 * Linux/macos/Windows (linux subsystem)
-  ```sh
+
  You will need a system that can run linux commands
 
-  ```
 
 <!-- USAGE EXAMPLES -->
 ## Usage
