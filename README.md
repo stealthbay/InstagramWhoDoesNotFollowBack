@@ -19,10 +19,22 @@ Why Use This Script:
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
+You'll require the following before you can use the script
+* Instagram Information
   ```sh
-  npm install npm@latest -g
+  Login into Instagram
+  Settings
+  Your Activity
+  Download Your Information
+  HTML 
+  Email this to yourself
+
+  ```
+
+  * Linux/macos/Windows (linux subsystem)
+  ```sh
+ You will need a system that can run linux commands
+
   ```
 
 <!-- USAGE EXAMPLES -->
@@ -33,8 +45,6 @@ Use this space to show useful examples of how a project can be used. Additional 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 
 <!-- CONTRIBUTING -->
