@@ -39,10 +39,15 @@ You'll require the following before you can use the script
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+* Extract the files you got emailed from Instagram on your system
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+* Clone this repo onto your system
 
+* COPY over the 2 files called (followers.html and following.html) from the "instagram extracted files" into the "files" folder of this repo.
+
+* Run script.sh
+
+* Open the WhoDoesNotFollowBack.txt file to view your results
 
 
 <!-- CONTRIBUTING -->
