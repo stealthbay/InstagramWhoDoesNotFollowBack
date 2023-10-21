@@ -43,7 +43,6 @@ Use this space to show useful examples of how a project can be used. Additional 
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 <!-- CONTRIBUTING -->
@@ -54,7 +53,10 @@ If you have a suggestion that would make this better, please create a issue requ
 <!-- CONTACT -->
 ## Contact
 
-Harry Taheem - [@Stealth_Bay](https://twitter.com/stealth_bay - harry@stealthbay.com - [![LinkedIn][linkedin-shield]][linkedin-url]
+Harry Taheem - [@Stealth_Bay](https://twitter.com/stealth_bay) - EMAIL: harry@stealthbay.com 
+
+ [![LinkedIn][linkedin-shield]][linkedin-url]
+
 Project Link: [https://github.com/stealthbay/InstagramWhoDoesNotFollowBack](https://github.com/stealthbay/InstagramWhoDoesNotFollowBack)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
