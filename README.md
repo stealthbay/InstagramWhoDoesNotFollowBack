@@ -3,8 +3,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
 This is a script that can be run and will compare your followers and following users on Instagram.
 It will then create a file showing you the users that do not follow you back.
 
@@ -58,11 +56,11 @@ If you have a suggestion that would make this better, please create a issue requ
 <!-- CONTACT -->
 ## Contact
 
-Harry Taheem - [@Stealth_Bay](https://twitter.com/stealth_bay) - EMAIL: harry@stealthbay.com 
-
- [![LinkedIn][linkedin-shield]][linkedin-url]
+Harry Taheem - [@Stealth_Bay](https://twitter.com/stealth_bay) - Email - harry@stealthbay.com 
 
 Project Link: [https://github.com/stealthbay/InstagramWhoDoesNotFollowBack](https://github.com/stealthbay/InstagramWhoDoesNotFollowBack)
+
+ [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
