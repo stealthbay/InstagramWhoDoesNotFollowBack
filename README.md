@@ -48,7 +48,7 @@ You'll require the following before you can use the script
 
 * Run script.sh
 
-* Open the WhoDoesNotFollowBack.txt file to view your results
+* Open the WhoDoesNotFollowBack.txt file to view your results from the "files" folder
 
 
 <!-- CONTRIBUTING -->
