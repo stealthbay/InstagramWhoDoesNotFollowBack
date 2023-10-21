@@ -8,6 +8,8 @@ It will then create a file showing you the users that do not follow you back.
 
 Why Use This Script:
 * Will make your life easier
+* You don't have to use shady 3rd party apps that may steal your data or IG account
+* This is a safe app, it does not access your IG account in any way
 * Will help you clean out accounts you follow that you may not want to follow any longer
 * Let you figure out who unfollowed you and people you may also want to unfollow back :smile:
 
@@ -24,14 +26,15 @@ You'll require the following before you can use the script
   Settings
   Your Activity
   Download Your Information
-  HTML 
+  Select you want the HTML format
   Email this to yourself
+  Download the file to your computer
 
   ```
 
 * Linux/macos/Windows (linux subsystem)
 
- You will need a system that can run linux commands
+ You will need a system that can run linux commands. Linux and macOS can run them, and if you use Windows. Then WSL can be used to run linux commands and this script.
 
 
 <!-- USAGE EXAMPLES -->
